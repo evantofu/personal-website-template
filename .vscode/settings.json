@@ -1,0 +1,17 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": null,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "html.format.enable": true,
+    "css.format.enable": true,
+    "javascript.format.enable": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true
+  }
