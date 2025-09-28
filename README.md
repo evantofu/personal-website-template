@@ -1,44 +1,31 @@
 # Personal Portfolio Website
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Inspired by cutting-edge tech design principles.
+A responsive portfolio website built with HTML, CSS, and JavaScript.
 
 ## Features
-
-- **Modern Dark Design**: Sleek, professional aesthetic
-- **Fully Responsive**: Works perfectly on all devices
-- **Smooth Animations**: Engaging user interactions
-- **Performance Optimized**: Fast loading and SEO friendly
-- **Easy to Customize**: Well-structured, clean code
+- Modern dark design
+- Mobile responsive
+- Smooth animations
+- Fast loading
 
 ## Tech Stack
+- HTML5, CSS3, JavaScript
+- Netlify hosting
 
-- HTML5
-- CSS3 (Grid, Flexbox, Custom Properties)
-- Vanilla JavaScript
-- Netlify (Hosting & Deployment)
+## Setup
+1. Replace content with your info
+2. Add project images to `/images/`
+3. Update contact details
+4. Deploy to Netlify
 
-## Project Structure
-
+## Structure
+```
 personal-website/
-├── index.html          # Main HTML file
-├── css/               # Stylesheets (optional separation)
-├── js/                # JavaScript files (optional separation)
-├── images/            # Image assets
-├── README.md          # This file
-├── netlify.toml       # Netlify configuration
-└── .gitignore         # Git ignore rules
+├── index.html
+├── css/
+├── js/
+├── images/
+└── README.md
+```
 
-## Deployment
-
-This site is automatically deployed to Netlify when changes are pushed to the main branch.
-
-## Customization
-
-1. Replace placeholder content with your information
-2. Add your project images to `/images/projects/`
-3. Update social links and contact information
-4. Customize colors and styling as needed
-
-## Contributing
-
-Feel free to fork this project and customize it for your own use!
+Feel free to fork and customize for your own use!
